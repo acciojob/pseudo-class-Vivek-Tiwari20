@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+
+#container{
+	display:flex;
+	font-size:19px;
+	
+}
+.beforeEle{
+	color:red;
+	font-size:20px;
+	padding-right:4px;
+}
+.afterEle{
+	color:red;
+	font-size:20px;
+	padding-left:4px;
+}
