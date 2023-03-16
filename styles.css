@@ -2,11 +2,11 @@
 
 #container{
 	display:flex;
-	font-size:19px;
+	font-size:16px;
 	
 }
 .beforeEle{
-	color:rgb(255, 0, 0);
+	color: rgb(255, 0, 0);
 	font-size:20px;
 	padding-right:4px;
 }
@@ -14,4 +14,8 @@
 	color:rgb(255, 0, 0);
 	font-size:20px;
 	padding-left:4px;
+}
+.middle{
+	color:rgb(0, 0, 0);
+	padding-top:2px;
 }
